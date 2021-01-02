@@ -11,7 +11,7 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6aec4bfa-d3c1-4330-9810-36ff648a7678")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fa16da56-5298-4cf1-9a12-2626680a3745")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("AzureServiceBusQueue.Receiver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

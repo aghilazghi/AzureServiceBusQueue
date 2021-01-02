@@ -1,9 +1,9 @@
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\bin\Debug\netstandard2.0\AzureServiceBusQueue.Shared.deps.json
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\bin\Debug\netstandard2.0\AzureServiceBusQueue.Shared.dll
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\bin\Debug\netstandard2.0\AzureServiceBusQueue.Shared.pdb
-C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.csprojAssemblyReference.cache
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.AssemblyInfoInputs.cache
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.AssemblyInfo.cs
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.csproj.CoreCompileInputs.cache
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.dll
 C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.pdb
+C:\Users\AMINE\source\repos\AzureServiceBusQueue\AzureServiceBusQueue\AzureServiceBusQueue.Shared\obj\Debug\netstandard2.0\AzureServiceBusQueue.Shared.csprojAssemblyReference.cache
